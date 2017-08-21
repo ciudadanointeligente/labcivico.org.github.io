@@ -523,6 +523,7 @@ h5{
 .tarjeta{
   min-height: 330px;
   line-height: 1.2;
+  padding: 15px;
   h4{
     color: $blue-dark;
   }
@@ -540,9 +541,10 @@ h5{
 
 .panel{
   color: $grey;
-  padding: 15px;
+  padding: none;
   border: none;
   border-radius: 0;
+  margin-bottom: -20px;
 }
 
 

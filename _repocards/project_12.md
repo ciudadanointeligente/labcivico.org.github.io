@@ -1,6 +1,6 @@
 ---
 layout: card
-image: ../img/.jpg
+image: ../img/12-min.jpg
 title: Jóvenes y Ambiente, Legitimemos la participación
 country: Perú
 city:

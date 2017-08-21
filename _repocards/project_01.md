@@ -1,6 +1,6 @@
 ---
 layout: card
-image: ../img/bolivia-min.jpg
+image: ../img/01-min.jpg
 title: Hackeando al machismo
 country: Bolivia
 city:

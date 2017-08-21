@@ -1,6 +1,6 @@
 ---
 layout: card
-image: ../img/peru-min.jpg
+image: ../img/05-min.jpg
 title: Género
 country: Honduras
 city:

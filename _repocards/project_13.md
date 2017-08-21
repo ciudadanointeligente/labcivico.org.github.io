@@ -1,6 +1,6 @@
 ---
 layout: card
-image: ../img/.jpg
+image: ../img/13-min.jpg
 title:
 country: Perú
 city:

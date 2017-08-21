@@ -1,6 +1,6 @@
 ---
 layout: card
-image: ../img/.jpg
+image: ../img/09-min.jpg
 title: LabCívico Ambato
 country: Ecuador
 city: Ambato
