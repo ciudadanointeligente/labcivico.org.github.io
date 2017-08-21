@@ -18,3 +18,5 @@ collections:
     output: true
   projectteam02:
     output: true
+  repocards:
+    output: true
