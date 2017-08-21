@@ -521,7 +521,21 @@ h5{
 
 /*PANELS*/
 .tarjeta{
-  min-height: 230px;
+  min-height: 330px;
+  line-height: 1.2;
+  h4{
+    color: $blue-dark;
+  }
+  .label{
+    background-color: $blue-dark;
+    font-size: 12px;
+  }
+  label{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 11px;
+  }
 }
 
 .panel{
@@ -888,10 +902,6 @@ textarea{
     margin-bottom: 4px;
     width: 100%;
     color: $grey;
-}
-
-label{
-    float: left;
 }
 
 

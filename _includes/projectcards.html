@@ -1,6 +1,6 @@
-<p>{{card.title}}</p>
-<p><span>País:</span> {{card.country}}</p>
-{% if card.city %}<p><span>Ciudad de implementación:</span> {{card.city}}</p>{% endif %}
-<p><span>Tema:</span> {{card.theme}}</p>
-<p><span>Fechas:</span> {{card.period}}</p>
-{% if card.problem %}<p><span>Problema público a resolver:</span><p> {{card.problem}}</p>{% endif %}
+<span class="label">{{card.country}}</span>
+<h4>{{card.title}}</h4>
+{% if card.city %}<label>Ciudad de implementación:</label> {{card.city}}</p>{% endif %}
+<label>Tema:</label> {{card.theme}}</p>
+<label>Fechas:</label> {{card.period}}</p>
+{% if card.problem %}<label>Problema público a resolver:</label> {{card.problem}}</p>{% endif %}
