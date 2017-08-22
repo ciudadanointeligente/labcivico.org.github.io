@@ -632,37 +632,8 @@ p.context{
 }
 
 /*RIBBONS*/
-.product {
-  margin: 50px auto;
-  width: 280px;
-  height: 370px;
-  background: white;
-  border: 1px solid #333;
-  position: relative;
-  z-index: 90;
-}
-.ribbon-wrapper {
-  width: 230px;
-  height: 198px;
-  overflow: hidden;
+.ribbon{
   position: absolute;
-  top: 3px;
-  right: 18px;
-  .ribbon {
-    font-weight: 700;
-    text-align: center;
-    -webkit-transform: rotate(45deg);
-    -moz-transform:    rotate(45deg);
-    -ms-transform:     rotate(45deg);
-    -o-transform:      rotate(45deg);
-    position: relative;
-    padding: 7px 0;
-    top: 25px;
-    right: -81px;
-    width: 210px;
-    background-color: $red;
-    color: white;
-  }
 }
 
 /*TIMELINE*/

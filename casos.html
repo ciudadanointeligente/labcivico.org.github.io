@@ -9,6 +9,9 @@ layout: default
         {% for card in site.repocards reversed %}
         <div class=" col-sm-6 col-md-4">
             <div class="panel panel-default card">
+							{% if card.ribbon ==true %}
+							<img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
+							{% endif %}
               <img src="{{card.image}}" class="cards-image"></img>
               <div class="tarjeta">{% include projectcards.html %}</div>
 							<div class="text-center"><a class="btn btn-danger space" href="{{card.permalink}}" role="button" target="_blank"><span>Ver más</span></a></div>

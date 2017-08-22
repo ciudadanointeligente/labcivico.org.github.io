@@ -7,6 +7,9 @@
     <div class="row">
         {% for card in site.projectcards reversed %}
         <div class="col-sm-6 col-md-4">
+          {% if card.ribbon ==true %}
+          <img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
+          {% endif %}
             <div class="panel panel-default card">
               <img src="{{card.image}}" class="cards-image"></img>
               <div class="tarjeta">{% include projectcards.html %}</div>
