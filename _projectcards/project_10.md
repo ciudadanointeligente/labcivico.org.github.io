@@ -1,7 +1,7 @@
 ---
 layout: card
-image: ../img/.jpg
-title: 
+image: ../img/10-min.jpg
+title:
 country: Perú
 city: Chiclayo
 theme: Importancia de los Planes de Desarrollo Concertado como mecanismos de participación de sociedad civil para la gobernanza.

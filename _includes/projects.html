@@ -5,15 +5,15 @@
       <p>Estos son los productos que se han desarrollado en nuestros Labs Cívicos de Bolivia, Ecuador y Perú.</p>
     </div>
     <div class="row">
-        {% for card in site.projectcards %}
-        <div class="col-md-4">
+        {% for card in site.projectcards reversed %}
+        <div class="col-sm-6 col-md-4">
             <div class="panel panel-default card">
               <img src="{{card.image}}" class="cards-image"></img>
               <div class="tarjeta">{% include projectcards.html %}</div>
             </div>
         </div>
         {% endfor %}
-
+        <div class="text-center"><a class="btn btn-danger" href="{{ site.baseurl }}/casos.html" role="button"><span>Ver todos los casos</span></a></div>
     </div>
   </div>
 </section>

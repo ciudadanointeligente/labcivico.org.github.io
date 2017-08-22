@@ -6,7 +6,7 @@ layout: default
 		<h1>Casos</h1>
 		<p>Ya hemos realizado tres Labs Cívicos en Bolivia, Ecuador y Perú, aquí te contamos cómo fueron esas experiencias.</p>
     <div class="row">
-        {% for card in site.repocards %}
+        {% for card in site.repocards reversed %}
         <div class=" col-sm-6 col-md-4">
             <div class="panel panel-default card">
               <img src="{{card.image}}" class="cards-image"></img>

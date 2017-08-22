@@ -1,6 +1,6 @@
 ---
 layout: card
-image: ../img/.jpg
+image: ../img/11-min.jpg
 title: Ciudadanía, juventud y lucha contra la corrupción
 country: Perú
 city:
