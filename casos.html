@@ -3,7 +3,7 @@ layout: default
 ---
 <section class="container-yellow header experiencia" id="about">
 	<div class="container">
-		<h1>Experiencia LabCívico</h1>
+		<h1>Casos</h1>
 		<p>Ya hemos realizado tres Labs Cívicos en Bolivia, Ecuador y Perú, aquí te contamos cómo fueron esas experiencias.</p>
     <div class="row">
         {% for card in site.repocards %}
@@ -11,7 +11,7 @@ layout: default
             <div class="panel panel-default card">
               <img src="{{card.image}}" class="cards-image"></img>
               <div class="tarjeta">{% include projectcards.html %}</div>
-              <div class="hidden"><a class="btn btn-danger center-block" href="{{card.permalink}}" role="button" target="_blank"><span>Ir al proyecto</span></a></div>
+							<div class="text-center"><a class="btn btn-danger space" href="{{card.permalink}}" role="button" target="_blank"><span>Ver más</span></a></div>
             </div>
         </div>
         {% endfor %}
