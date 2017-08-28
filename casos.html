@@ -1,23 +1,32 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css" href="css/component.css" />
+<script src="js/modernizr.custom.js"></script>
+
 <section class="container-yellow header experiencia" id="about">
 	<div class="container">
 		<h1>Casos</h1>
 		<p>Ya hemos realizado tres Labs Cívicos en Bolivia, Ecuador y Perú, aquí te contamos cómo fueron esas experiencias.</p>
-    <div class="row">
-        {% for card in site.repocards reversed %}
-        <div class=" col-sm-6 col-md-4">
-            <div class="panel panel-default card">
-							{% if card.ribbon ==true %}
-							<img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
-							{% endif %}
-              <img src="{{card.image}}" class="cards-image"></img>
-              <div class="tarjeta">{% include projectcards.html %}</div>
-							<div class="text-center"><a class="btn btn-danger space" href="{{card.permalink}}" role="button" target="_blank"><span>Ver más</span></a></div>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+			<ul id="og-grid" class="og-grid">
+				{% for card in site.repocards reversed %}
+				<li>
+					<a href="{{card.link}}" data-largesrc="{{card.image}}" data-title="{{card.title}}" data-description="{{card.content}}">
+						<img src="{{card.image}}" alt="{{card.title}}"/>
+						{% if card.ribbon ==true %}
+						<img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
+						{% endif %}
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
 	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="js/grid.js"></script>
+	<script>
+		$(function() {
+			Grid.init();
+		});
+	</script>
 </section>
