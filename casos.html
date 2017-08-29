@@ -13,10 +13,10 @@ layout: default
 				{% for card in site.repocards reversed %}
 				<li>
 					<a href="" data-largesrc="{{card.image}}" data-title="{{card.title}}" data-description="{{card.content}}" class="btn btn-white">
-						<img src="{{card.image}}" alt="{{card.title}}">
 						{% if card.ribbon ==true %}
 						<img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
 						{% endif %}
+						<img src="{{card.image}}" alt="{{card.title}}">
 						<div class="tarjeta">{% include projectcards.html %}</div>
 						Ver más
 					</a>
