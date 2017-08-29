@@ -32,32 +32,3 @@ body {
     overflow: scroll;
     overflow-x: hidden;
 }
-
-.container {
-s	position: relative;
-}
-
-.container > header {
-	width: 90%;
-	max-width: 1240px;
-	margin: 0 auto;
-	position: relative;
-	padding: 0 30px 50px 30px;
-}
-
-.container > header {
-	padding: 60px 30px 50px;
-	text-align: center;
-}
-
-.container > header h1 {
-	line-height: 38px;
-	margin: 0 auto;
-	font-weight: 700;
-	color: #333;
-}
-
-.container > header h1 span {
-	display: block;
-	font-weight: 300;
-}

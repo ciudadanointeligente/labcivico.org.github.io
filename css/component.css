@@ -10,7 +10,7 @@
 	display: inline-block;
 	margin: 10px 5px 0 5px;
 	vertical-align: top;
-	height: initial;
+	width: 330px;
 }
 
 .og-grid li > a,
@@ -19,10 +19,11 @@
 	outline: none;
 	display: block;
 	position: relative;
+	color: #424242;
 }
 
 .og-grid li.og-expanded > a::after {
-	top: auto;
+	top: 440px;
 	border: solid transparent;
 	content: " ";
 	height: 0;

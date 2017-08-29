@@ -530,6 +530,8 @@ h5{
   min-height: 330px;
   line-height: 1.2;
   padding: 15px;
+  text-align: left;
+  font-weight: 300;
   h4{
     color: $blue-dark;
   }
@@ -596,6 +598,20 @@ button.btn.btn-default.btn-sm.btn-block{
   }
   &:focus{
     background-color: $blue;
+  }
+}
+
+.btn-white {
+  background-color: white;
+  border: none;
+  word-wrap: break-word;
+  white-space: normal;
+  color: $grey;
+  border-radius: 0;
+  height: 440px;
+  padding: 0;
+  a{
+    color: $grey;
   }
 }
 

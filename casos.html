@@ -12,11 +12,12 @@ layout: default
 			<ul id="og-grid" class="og-grid">
 				{% for card in site.repocards reversed %}
 				<li>
-					<a href="{{card.link}}" data-largesrc="{{card.image}}" data-title="{{card.title}}" data-description="{{card.content}}">
-						<img src="{{card.image}}" alt="{{card.title}}"/>
+					<a href="" data-largesrc="{{card.image}}" data-title="{{card.title}}" data-description="{{card.content}}" class="btn btn-white">
 						{% if card.ribbon ==true %}
 						<img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
 						{% endif %}
+						<div class="tarjeta">{% include projectcards.html %}</div>
+						Ver más
 					</a>
 				</li>
 				{% endfor %}
