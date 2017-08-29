@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/04-min.jpg
+imagemin: ../img/04-min.jpg
+imagemax: ../img/04-max.jpg
 title: Transparencia y probidad
 country: Guatemala
 city:

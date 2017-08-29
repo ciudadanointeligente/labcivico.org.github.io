@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/02-min.jpg
+imagemin: ../img/02-min.jpg
+imagemax: ../img/02-max.jpg
 title: Reciveci
 country: Ecuador
 city:

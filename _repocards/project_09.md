@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/09-min.jpg
+imagemin: ../img/09-min.jpg
+imagemax: ../img/09-max.jpg
 title: LabCívico Ambato
 country: Ecuador
 city: Ambato
@@ -8,6 +9,8 @@ theme: Participación de jóvenes en la construcción de políticas públicas en
 period: 29 y 30 de junio 2017
 problem: Baja incidencia de organizaciones jóvenes - y de jóvenes en general - en la construcción de políticas públicas de la ciudad de Ambato, a pesar de que existen mecanismos de participación ciudadana
 facilitator: Andrea Romo
+ocupation: Jóvenes Creo Tungurahua - Vicepresidenta
+person: ../img/09-person.jpg
 ribbon: true
 ---
 

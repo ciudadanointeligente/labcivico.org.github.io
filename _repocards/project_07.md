@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/07-min.jpg
+imagemin: ../img/07-min.jpg
+imagemax: ../img/07-max.jpg
 title: La Naturalización de la violencia en el marco del conflicto armado interno
 country: Colombia
 city: Cúcuta
@@ -8,6 +9,8 @@ theme: Legitimación de los DDHH en el marco del conflicto armado Colombiano
 period: 26 y 27 de mayo 2017
 problem: ¿Cómo se puede mitigar la legitimación las violaciones de DDHH en el marco del conflicto armado colombiano, entendido como un fenómeno que agudiza la violencia cultural?
 facilitator: Bibiana Quintero
+ocupation: Centro de Derechos Humanos e Innovación Social - Presidenta
+person: ../img/07-person.jpg
 ribbon: true
 ---
 

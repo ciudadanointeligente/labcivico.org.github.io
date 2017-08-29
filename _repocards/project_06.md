@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/06-min.jpg
+imagemin: ../img/06-min.jpg
+imagemax: ../img/06-max.jpg
 title: Transporte público
 country: Costa Rica
 city:

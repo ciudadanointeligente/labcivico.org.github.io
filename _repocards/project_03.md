@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/03-min.jpg
+imagemin: ../img/03-min.jpg
+imagemax: ../img/03-max.jpg
 title: Transparencia electoral
 country: Perú
 city:

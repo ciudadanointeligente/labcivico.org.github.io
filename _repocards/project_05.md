@@ -1,6 +1,7 @@
 ---
 layout: card
-image: ../img/05-min.jpg
+imagemin: ../img/05-min.jpg
+imagemax: ../img/05-max.jpg
 title: Género
 country: Honduras
 city:
