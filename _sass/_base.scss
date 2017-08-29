@@ -418,13 +418,16 @@ a .fa-chevron-down:hover {
     margin-bottom: -25px;
   }
 }
+.bajada{
+  font-size: 16px;
+}
 
 .col-md-12{
   &.method01{
     background: url("../img/method01.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -432,7 +435,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method02.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -440,7 +443,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method03.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -448,7 +451,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method04.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -456,7 +459,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method05.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -464,7 +467,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method06.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -526,6 +529,10 @@ h5{
 }
 
 /*PANELS*/
+.name{
+  padding: 0 10px 10px 10px;
+}
+
 .tarjeta{
   min-height: 330px;
   line-height: 1.2;
