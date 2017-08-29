@@ -9,7 +9,7 @@ theme: La participación de las juventudes peruanas en la toma de decisiones en 
 period: 15 y 16 de julio 2017
 problem: La participación juvenil en la formulación y aplicación de acuerdos y políticas vinculadas al sector ambiental en el Perú es limitada debido a los pocos canales de incidencia política existentes, lo que incrementa la vulnerabilidad de los jóvenes y genera medidas poco representativas
 facilitator: Patricia Alata
-ocupation: Lima Cómo Vamos - Coordinadora de proyectos
+occupation: Lima Cómo Vamos - Coordinadora de proyectos
 person: ../img/12-person.jpg
 ribbon: true
 ---

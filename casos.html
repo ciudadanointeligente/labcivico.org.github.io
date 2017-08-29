@@ -12,7 +12,7 @@ layout: default
 			<ul id="og-grid" class="og-grid">
 				{% for card in site.repocards reversed %}
 				<li>
-					<a href="" data-largesrc="{{card.imagemax}}" data-title="{{card.title}}" data-description="{{card.content}}" data-person="{{card.person}}" data-facilitator="{{card.facilitator}}" data-ocupation="{{card.ocupation}}" class="btn btn-white">
+					<a href="" data-largesrc="{{card.imagemax}}" data-country="{{card.country}}" data-title="{{card.title}}" data-theme="{{card.theme}}" data-description="{{card.content}}" data-person="{{card.person}}" data-facilitator="{{card.facilitator}}" data-occupation="{{card.occupation}}" class="btn btn-white">
 						{% if card.ribbon ==true %}
 						<img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
 						{% endif %}

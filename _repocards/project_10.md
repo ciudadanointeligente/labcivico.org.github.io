@@ -9,7 +9,7 @@ theme: Importancia de los Planes de Desarrollo Concertado como mecanismos de par
 period: 1 y 2 de julio 2017
 problem: La elaboración inadecuada de los Planes de Desarrollo Concertado impide su eficiencia como mecanismo de incidencia ciudadana y afecta la participación en el departamento de Lambayeque
 facilitator: Jorge Luis Vallejo
-ocupation: Instituto de Estudios Social Cristianos - Docente y Coordinador Norte
+occupation: Instituto de Estudios Social Cristianos - Docente y Coordinador Norte
 person: ../img/10-person.jpg
 ribbon: true
 ---

@@ -115,11 +115,24 @@
 	max-width: 100%;
 }
 
+.og-details .label{
+	background-color: #0c535e;
+	font-size: 12px;
+}
+
 .og-details h3 {
 	font-weight: 700;
 	font-size: 30px;
-	padding: 10px 0 10px;
+	padding: 0 0 10px;
 	margin-bottom: 0;
+}
+
+.og-details label{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 11px;
+	margin-bottom: 23px;
 }
 
 .og-details p {
@@ -127,6 +140,7 @@
 	font-size: 14px;
 	line-height: 22px;
 	color: white;
+	margin-bottom: 23px;
 }
 
 .og-details a {
@@ -175,6 +189,11 @@
 	0% { background: #ddd; }
 	33% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ccc, -15px 30px 1px #ddd; }
 	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
+}
+
+@media screen and (max-width: 1328px) {
+
+	.og-expander { height: 860px; }
 }
 
 @media screen and (max-width: 830px) {

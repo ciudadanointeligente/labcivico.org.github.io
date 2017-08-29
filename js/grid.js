@@ -342,16 +342,20 @@ var Grid = (function() {
 	Preview.prototype = {
 		create : function() {
 			// create Preview structure:
+			this.$country = $( '<span class="label"></span>' );
 			this.$title = $( '<h3></h3>' );
+			this.$theme = $( '<label></label>' );
 			this.$description = $( '<p></p>' );
-      this.$facilitator = $('<p></p>');
+      this.$facilitator = $('<h4></h4>');
+			this.$occupation = $('<span></span>');
 			this.$href = $( '<a href="#">Visit website</a>' );
-			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$facilitator, this.$href );
+			this.$details = $( '<div class="og-details"></div>' ).append( this.$country, this.$title, this.$theme, this.$description, this.$facilitator, this.$occupation, this.$href );
 			this.$loading = $( '<div class="og-loading"></div>' );
 			this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
 			this.$closePreview = $( '<span class="og-close"></span>' );
 			this.$previewInner = $( '<div class="og-expander-inner"></div>' ).append( this.$closePreview, this.$fullimage, this.$details );
 			this.$previewEl = $( '<div class="og-expander"></div>' ).append( this.$previewInner );
+
 			// append preview element to the item
 			this.$item.append( this.getEl() );
 			// set the transitions for the preview and the item
@@ -382,14 +386,20 @@ var Grid = (function() {
 				eldata = {
 					href : $itemEl.attr( 'href' ),
 					largesrc : $itemEl.data( 'largesrc' ),
+					country : $itemEl.data( 'country' ),
 					title : $itemEl.data( 'title' ),
+					theme : $itemEl.data( 'theme' ),
           description : $itemEl.data( 'description' ),
-					facilitator : $itemEl.data( 'facilitator' )
+					facilitator : $itemEl.data( 'facilitator' ),
+					occupation : $itemEl.data( 'occupation' )
 				};
 
+			this.$country.html( eldata.country );
 			this.$title.html( eldata.title );
+			this.$theme.html( eldata.theme );
       this.$description.html( eldata.description );
 			this.$facilitator.html( eldata.facilitator );
+			this.$occupation.html( eldata.occupation );
 			this.$href.attr( 'href', eldata.href );
 
 			var self = this;
