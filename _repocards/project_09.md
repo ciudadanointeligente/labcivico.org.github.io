@@ -8,8 +8,8 @@ city: Ambato
 theme: Participación de jóvenes en la construcción de políticas públicas en la ciudad de Ambato
 period: 29 y 30 de junio 2017
 problem: Baja incidencia de organizaciones jóvenes - y de jóvenes en general - en la construcción de políticas públicas de la ciudad de Ambato, a pesar de que existen mecanismos de participación ciudadana
-facilitator: Andrea Romo
-occupation: Jóvenes Creo Tungurahua - Vicepresidenta
+facilitator: Proyecto de Andrea Romo
+occupation: Vicepresidenta - Jóvenes Creo Tungurahua
 person: ../img/09-person.jpg
 ribbon: true
 ---

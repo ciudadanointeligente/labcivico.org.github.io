@@ -8,8 +8,8 @@ city: Lima
 theme: Espacios Públicos
 period: 24 y 25 de junio 2017
 problem: Precariedad de un marco legal urbanístico contribuye a generar políticas deficientes en torno a los espacios públicos en Barranco
-facilitator: Andrés Devoto
-occupation: Colectivo DespiertaLima / Contribuyentes por Respeto - Promotor / Asistente de Investigación
+facilitator: Proyecto de Andrés Devoto
+occupation: Promotor / Asistente de Investigación - Colectivo DespiertaLima / Contribuyentes por Respeto
 person: ../img/08-person.jpg
 ribbon: true
 ---

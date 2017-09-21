@@ -8,8 +8,8 @@ city:
 theme: La juventud en la lucha contra la corrupción
 period: 14 y 15 de julio 2017
 problem: Escasa movilización y articulación social joven de Lima que muestre acciones de rechazo a la corrupción en la política
-facilitator: Carlos Arroyo Vivanco
-occupation: Proética - Coordinador en Proyectos de Acción Ciudadana y Gobierno Abierto
+facilitator: Proyecto de Carlos Arroyo Vivanco
+occupation: Coordinador en Proyectos de Acción Ciudadana y Gobierno Abierto - Proética
 person: ../img/11-person.jpg
 ribbon: true
 ---

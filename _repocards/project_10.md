@@ -2,14 +2,14 @@
 layout: card
 imagemin: ../img/10-min.jpg
 imagemax: ../img/10-max.jpg
-title:
+title: Fuerza comunitaria
 country: Perú
 city: Chiclayo
 theme: Importancia de los Planes de Desarrollo Concertado como mecanismos de participación de sociedad civil para la gobernanza.
 period: 1 y 2 de julio 2017
 problem: La elaboración inadecuada de los Planes de Desarrollo Concertado impide su eficiencia como mecanismo de incidencia ciudadana y afecta la participación en el departamento de Lambayeque
-facilitator: Jorge Luis Vallejo
-occupation: Instituto de Estudios Social Cristianos - Docente y Coordinador Norte
+facilitator: Proyecto de Jorge Luis Vallejo
+occupation: Docente y Coordinador Norte - Instituto de Estudios Social Cristianos
 person: ../img/10-person.jpg
 ribbon: true
 ---
