@@ -12,6 +12,10 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+.space{
+  margin-bottom: 20px;
+}
+
 span{
   font-family: 'Karla', sans-serif;
   font-weight: 600;
@@ -339,7 +343,6 @@ a .fa-chevron-down:hover {
       background-blend-mode: multiply;
       background-position: 60% -2%;
       background-color:$yellow;
-      margin-bottom: -25px;
     }
     &.projects2 {
       background: url("../img/latam2.png");
@@ -411,6 +414,12 @@ a .fa-chevron-down:hover {
       font-weight: 700;
       color: white;
     }
+  &.escuela{
+    margin-bottom: -25px;
+  }
+}
+.bajada{
+  font-size: 16px;
 }
 
 .col-md-12{
@@ -418,7 +427,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method01.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -426,7 +435,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method02.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -434,7 +443,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method03.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -442,7 +451,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method04.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -450,7 +459,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method05.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -458,7 +467,7 @@ a .fa-chevron-down:hover {
     background: url("../img/method06.png");
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-position: 46% 70%;
+    background-position: 20px;
     background-color:$blue;
     min-height: 120px;
   }
@@ -520,15 +529,37 @@ h5{
 }
 
 /*PANELS*/
+.name{
+  padding: 0 10px 10px 10px;
+}
+
 .tarjeta{
-  min-height: 230px;
+  min-height: 330px;
+  line-height: 1.2;
+  padding: 15px;
+  text-align: left;
+  font-weight: 300;
+  h4{
+    color: $blue-dark;
+  }
+  .label{
+    background-color: $blue-dark;
+    font-size: 12px;
+  }
+  label{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 11px;
+  }
 }
 
 .panel{
   color: $grey;
-  padding: 15px;
+  padding: none;
   border: none;
   border-radius: 0;
+  margin-bottom: -20px;
 }
 
 
@@ -577,6 +608,26 @@ button.btn.btn-default.btn-sm.btn-block{
   }
 }
 
+.btn-white {
+  background-color: white;
+  border: none;
+  word-wrap: break-word;
+  white-space: normal;
+  color: $grey;
+  border-radius: 0;
+  height: 600px;
+  padding: 0;
+  a{
+    color: $grey;
+  }
+}
+
+.btn.btn-danger.btn-arrow.text-center{
+  position: absolute;
+  bottom: 20px;
+  left: 123px;
+}
+
 /*IMAGES*/
 .cards-image{
   width: 100%;
@@ -610,37 +661,8 @@ p.context{
 }
 
 /*RIBBONS*/
-.product {
-  margin: 50px auto;
-  width: 280px;
-  height: 370px;
-  background: white;
-  border: 1px solid #333;
-  position: relative;
-  z-index: 90;
-}
-.ribbon-wrapper {
-  width: 230px;
-  height: 198px;
-  overflow: hidden;
+.ribbon{
   position: absolute;
-  top: 3px;
-  right: 18px;
-  .ribbon {
-    font-weight: 700;
-    text-align: center;
-    -webkit-transform: rotate(45deg);
-    -moz-transform:    rotate(45deg);
-    -ms-transform:     rotate(45deg);
-    -o-transform:      rotate(45deg);
-    position: relative;
-    padding: 7px 0;
-    top: 25px;
-    right: -81px;
-    width: 210px;
-    background-color: $red;
-    color: white;
-  }
 }
 
 /*TIMELINE*/
@@ -888,10 +910,6 @@ textarea{
     margin-bottom: 4px;
     width: 100%;
     color: $grey;
-}
-
-label{
-    float: left;
 }
 
 

@@ -2,20 +2,21 @@
   <div class="container">
     <h2 class="text-center">Casos</h2>
     <div class="bajada text-center">
-      <p>Estos son los productos que se han desarrollado en nuestros Labs Cívicos de Bolivia, Ecuador y Perú.</p>
+      <p></p>
     </div>
     <div class="row">
-        {% for card in site.projectcards %}
-        <div class="col-md-4">
+        {% for card in site.projectcards reversed %}
+        <div class="col-sm-6 col-md-4">
+          {% if card.ribbon ==true %}
+          <img src="{{ site.baseurl }}/img/ribbon.svg" class="ribbon">
+          {% endif %}
             <div class="panel panel-default card">
-              <h4 class="text-center">{{card.title}}</h4>
               <img src="{{card.image}}" class="cards-image"></img>
               <div class="tarjeta">{% include projectcards.html %}</div>
-              <div class="hidden"><a class="btn btn-danger center-block" href="{{card.permalink}}" role="button" target="_blank"><span>Ir al proyecto</span></a></div>
             </div>
         </div>
         {% endfor %}
-
+        <div class="text-center"><a class="btn btn-danger" href="{{ site.baseurl }}/casos.html" role="button"><span>Ver todos los casos</span></a></div>
     </div>
   </div>
 </section>
