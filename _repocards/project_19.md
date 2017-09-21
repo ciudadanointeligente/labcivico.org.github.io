@@ -8,7 +8,7 @@ city: Quito
 theme: Formalización de labor de recicladores de base en la cadena GIRS en Quito
 period: 25 y 26 de agosto 2017
 problem: En este momento la ausencia de políticas nacionales y el modelo de Gestión Integral de Residuos Sólidos (GIRS) vigente en el Distrito Metropolitano de Quito (DMQ) reconoce a recicladores de base, sin embargo, no fomenta la participación ciudadana en temas de reciclaje y no incluye la valorización del trabajo de recicladores de base como la prestación de un servicio.
-facilitator: Proyecto de Paula Guerra
+facilitator: Proyecto guiado por Paula Guerra
 occupation: Gerente General - Residuos Ecuador
 person: ../img/19-person.jpg
 ribbon: true

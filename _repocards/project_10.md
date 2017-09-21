@@ -8,7 +8,7 @@ city: Chiclayo
 theme: Importancia de los Planes de Desarrollo Concertado como mecanismos de participación de sociedad civil para la gobernanza.
 period: 1 y 2 de julio 2017
 problem: La elaboración inadecuada de los Planes de Desarrollo Concertado impide su eficiencia como mecanismo de incidencia ciudadana y afecta la participación en el departamento de Lambayeque
-facilitator: Proyecto de Jorge Luis Vallejo
+facilitator: Proyecto guiado por Jorge Luis Vallejo
 occupation: Docente y Coordinador Norte - Instituto de Estudios Social Cristianos
 person: ../img/10-person.jpg
 ribbon: true

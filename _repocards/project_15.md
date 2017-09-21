@@ -8,7 +8,7 @@ city: La Paz
 theme: Desafíos para la implementación de Gobierno Abierto como modelo de Gestión Pública en ámbitos locales
 period: 27 y 28 de julio 2017
 problem: Existe poca colaboración entre la ciudadanía y el Gobierno Autónomo Municipal de La Paz para la construcción conjunta de políticas públicas
-facilitator: Proyecto de Atenas Vargas
+facilitator: Proyecto guiado por Atenas Vargas
 occupation: Directora de Economía - RESABIS
 person: ../img/15-person.jpg
 ribbon: true

@@ -8,7 +8,7 @@ city: Quito
 theme: Nudos Críticos de las Poblaciones LGBTI
 period: 2 y 3 de septiembre 2017
 problem: Después de 20 años de despenalizada la homosexualidad en Ecuador, las violencias hacia las personas LGBTI  no son reconocidas por la sociedad y el estado, por lo que no tenemos un marco jurídico que nos proteja de forma directa como sujetos de derecho.
-facilitator: Proyecto de Danilo Manzano
+facilitator: Proyecto guiado por Danilo Manzano
 occupation: Coordinador de iniciativas juveniles - Fundación Esquel
 person: ../img/21-person.jpg
 ribbon: true

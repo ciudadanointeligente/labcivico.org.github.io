@@ -191,14 +191,10 @@
 	66% { background: #ccc; box-shadow: 0 0 1px #ccc, 15px 30px 1px #ddd, -15px 30px 1px #ccc; }
 }
 
-@media screen and (max-width: 1328px) {
-
-	.og-expander { height: 860px; }
-}
-
 @media screen and (max-width: 830px) {
 
-	.og-expander h3 { font-size: 32px; }
+	.og-expander { height: 860px; }
+	.og-expander h3 { font-size: 22px; }
 	.og-expander p { font-size: 13px; }
 	.og-expander a { font-size: 12px; }
 

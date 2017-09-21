@@ -8,7 +8,7 @@ city:
 theme: Participación de jóvenes en la construcción de políticas públicas en la provincia de Pastaza
 period: 4 y 5 de agosto 2917
 problem: La baja incidencia y participación de organizaciones jóvenes y jóvenes en general en la construcción de políticas públicas de la provincia de Pastaza.
-facilitator: Proyecto de André Granda
+facilitator: Proyecto guiado por André Granda
 occupation: Maestrante en Políticas Públicas - FLACSO
 person: ../img/17-person.jpg
 ribbon: true

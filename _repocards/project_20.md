@@ -8,7 +8,7 @@ city: La Paz
 theme: Promover acciones en favor del cuidado, uso responsable y la prevención de futuras crisis de agua.
 period: 25 y 26 de agosto 2017
 problem: Existen deficiencias en materia de Educación, Gestión, Participación y Control Social entorno a la corresponsabilidad del abastecimiento sostenible de agua en el área Metropolitana de La Paz.
-facilitator: Proyecto de Carmen Capriles y Adrián Chambi
+facilitator: Proyecto guiado por Carmen Capriles y Adrián Chambi
 occupation: Consultora Independiente - Consultoría Ambiental, Consultor Independiente - Consultoría en Juventudes
 person: ../img/20-person.jpg
 ribbon: true

@@ -8,7 +8,7 @@ city:
 theme: Violencia contra la mujer en rondas urbanas de Cajamarca
 period: Agosto 2017
 problem: La cultura machista predominante en la región  de Cajamarca, justifica y naturaliza la violencia contra la mujer en espacios como las rondas urbanas.
-facilitator: Proyecto de Mirtha Vásquez
+facilitator: Proyecto guiado por Mirtha Vásquez
 occupation: Directora Ejecutiva - GRUFIDES
 person: ../img/17b-person.jpg
 ribbon: true

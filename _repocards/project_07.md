@@ -8,7 +8,7 @@ city: Cúcuta
 theme: Legitimación de los DDHH en el marco del conflicto armado Colombiano
 period: 26 y 27 de mayo 2017
 problem: ¿Cómo se puede mitigar la legitimación las violaciones de DDHH en el marco del conflicto armado colombiano, entendido como un fenómeno que agudiza la violencia cultural?
-facilitator: Proyecto de Bibiana Quintero
+facilitator: Proyecto guiado por Bibiana Quintero
 occupation: Presidenta - Centro de Derechos Humanos e Innovación Social
 person: ../img/07-person.jpg
 ribbon: true

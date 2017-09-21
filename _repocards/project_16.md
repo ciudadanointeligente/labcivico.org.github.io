@@ -8,7 +8,7 @@ city: Santa Cruz de la Sierra
 theme: Gobiernos Abiertos Locales
 period: 28 y 29 de julio 2017
 problem: Hay poca participación ciudadana en la co-elaboración y fiscalización de políticas públicas a nivel local (Santa Cruz)
-facilitator: Proyecto de Iván Pinto
+facilitator: Proyecto guiado por Iván Pinto
 occupation: Presidente - Fundación Gobierno Abierto
 person: ../img/16-person.jpg
 ribbon: true
