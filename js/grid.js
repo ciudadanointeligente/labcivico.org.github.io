@@ -193,7 +193,7 @@ var Grid = (function() {
     resolution_minHeight_val = 670;
 
     if (screen.width <= 425)
-      var resolution_minHeight_val = 900;
+      var resolution_minHeight_val = 1000;
 
 		var settings = {
 			minHeight : resolution_minHeight_val,
