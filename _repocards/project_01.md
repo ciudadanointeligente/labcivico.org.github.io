@@ -10,4 +10,4 @@ period: Marzo 2015
 problem: Poca visibilidad del machismo, sexismo y violencia de género
 ---
 
-Este proyecto busca visibilizar el impacto que tiene el machismo, el sexismo y la violencia de género. A través del uso de las redes sociales, alianzas con medios de comunicación y eventos públicos, #HackeandoAlMachismo busca educar en estas materias.
+El laboratorio fue desarrollado en la ciudad de La Paz (Bolivia), donde trabajamos entre mayo y septiembre de 2015 en el desarrollo del proyecto #HackeandoAlMachismo el cual buscaba visibilizar la grave repercusión del machismo en la sociedad y a su vez educar en esta materia. Para este Lab Cívico contamos con la participación de las organizaciones Católicas por el Derecho a Decidir y Coordinadora de la mujer, que fueron las responsables de convocar a personas y de asumir la co-coordinación de los talleres. Además, participaron la agencia de relaciones públicas Extend y los medios de comunicación Página Siete y La Razón
