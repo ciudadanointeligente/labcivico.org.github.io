@@ -10,4 +10,4 @@ period: Noviembre 2015
 problem: Baja cultura de transparencia en elecciones
 ---
 
-En este Lab Cívico se trabajó en los aspectos estratégicos y acciones de coordinación conjunta para impulsar una cultura de transparencia para las próximas elecciones generales que se realizarán este 2016 en Perú.
+Este laboratorio se desarrolló en Lima (Perú), a finales de noviembre del 2015. Trabajamos en conjunto con la Asociación Civil Transparencia, Ojo Público, Convoca.pe, Empodera.pe y activistas individuales para desarrollar una línea estrategica con el objetivo de impulsar una cultura de transparencia en las próximas elecciones en Perú. En esta oportunidad, a diferencia de los casos de Bolivia y Ecuador, se decidió trabajar en los aspectos estratégicos y acciones de coordinación conjunta, más que en el desarrollo de un producto o proyecto en particular.
