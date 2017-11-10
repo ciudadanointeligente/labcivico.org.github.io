@@ -1,6 +1,6 @@
 ---
 layout: person
-name: Jordi Bari
+name: Lissett García
 occupation:
-photo: ../img/jordi.jpg
+photo: ../img/liss.jpg
 ---

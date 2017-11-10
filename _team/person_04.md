@@ -1,6 +1,6 @@
 ---
 layout: person
-name: Lissett García
+name: Auska Ovando
 occupation:
-photo: ../img/liss.jpg
+photo: ../img/auska.jpg
 ---
