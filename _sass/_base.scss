@@ -108,6 +108,26 @@ ul.nav.navbar-nav.navbar-right{
     background-color: transparent;;
 }
 
+.pill-badge{
+  background-color: $blue-dark;
+  font-weight: 300;
+  color: white;
+  padding: 5px 7px;
+  border-radius: 50px;
+  position: relative;
+  top: 13px;
+  margin: 0 -8px 0 15px;
+  a{
+    color: white;
+    &:hover{
+      text-decoration: none;
+    }
+  }
+  &:hover{
+    background-color: $blue;
+  }
+}
+
 section {
     padding: 70px 0 75px;
 }
