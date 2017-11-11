@@ -648,6 +648,23 @@ button.btn.btn-default.btn-sm.btn-block{
   left: 123px;
 }
 
+.btn-team {
+  background-color: white;
+  border: none;
+  word-wrap: break-word;
+  white-space: normal;
+  color: $grey;
+  border-radius: 0;
+  height: 220px;
+  padding: 0;
+  a{
+    color: $grey;
+  }
+}
+
+.team-name{
+  margin-top: 8px;
+}
 /*IMAGES*/
 .cards-image{
   width: 100%;

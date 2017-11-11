@@ -1,0 +1,28 @@
+<link rel="stylesheet" type="text/css" href="css/default.css" />
+<link rel="stylesheet" type="text/css" href="css/component-team.css" />
+<script src="js/modernizr.custom.js"></script>
+
+<section class="container-red" id="about">
+	<div class="container">
+		<h2>Conoce al equipo</h2>
+    <p>Durante todo el proceso de Lab Cívico contarás con el apoyo de un equipo multidisciplinario de profesionales con muchas de ganas de producir cambios en Latinoamérica y ayudarte en todo lo necesario para que tu proceso de incidencia sea exitoso.</p>
+			<ul id="og-grid" class="og-grid">
+				{% for person in site.team %}
+				<li>
+          <a href="" data-largesrc="{{person.photomax}}" data-title="{{person.name}}" data-description="{{person.bio}}" class="btn btn-team">
+						<img src="{{person.photo}}" alt="{{person.name}}">
+            <div class="team-name"><span>{{person.name}}</span></div>
+            <div><i class="fa fa-file-text-o" aria-hidden="true"></i></div>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="js/grid-team.js"></script>
+	<script>
+		$(function() {
+			Grid.init();
+		});
+	</script>
+</section>

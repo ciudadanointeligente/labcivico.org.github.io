@@ -71,22 +71,4 @@ layout: default
 	</div>
 </section>
 
-<section class="container-red" id="about">
-	<div class="container">
-		<h2>Conoce al equipo</h2>
-		<div>
-      	<p>Durante todo el proceso de Lab Cívico contarás con el apoyo de un equipo multidisciplinario de profesionales con muchas de ganas de producir cambios en Latinoamérica y ayudarte en todo lo necesario para que tu proceso de incidencia sea exitoso.</p>
-    	</div>
-	    <div class="row">
-	      {% for person in site.team %}
-	        <div class="col-xs-6 col-sm-4 col-md-2">
-	            <div class="panel panel-default">
-	              <img src="{{person.photo}}" class="cards-image"></img>
-	              <div class="name"><span>{{person.name}}</span></div>
-	              <!--p><small>{{person.occupation}}</small></p>-->
-	            </div>
-	        </div>
-	      {% endfor %}
-	    </div>
-	</div>
-</section>
+{% include team.html %}
