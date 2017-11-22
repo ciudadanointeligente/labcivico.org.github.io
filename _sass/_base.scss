@@ -896,43 +896,6 @@ img.galeria{
 }
 
 
-/*FORM*/
-.form-control{
-    border:0px;
-    border-radius: 0;
-    margin-bottom: 5px;
-}
-
-.text.form-control{
-    min-height: 100px;
-}
-
-/*BLOG*/
-section#blog-page {
-  margin-top: 40px;
-}
-
-#blog-page h1 {
-  color: $grey;
-  margin-top:0px;
-}
-
-#blog-page h2 {
-  color: $grey;
-}
-
-.blog-menu {
-  margin-top: 88px;
-}
-
-.posts li {
-    border-top: 4px solid white;
-    padding-bottom: 40px;
-}
-
-.posts img {
-    width: 100%;
-}
 
 /*INPUT*/
 input{
@@ -941,7 +904,7 @@ input{
     height: 36px;
     padding: 8px;
     float: left;
-    margin-bottom: 4px;
+    margin-bottom: 24px;
     color: $grey;
 }
 
@@ -953,6 +916,36 @@ textarea{
     color: $grey;
 }
 
+ul.ss-choices{
+  padding: 0;
+}
+
+span.ss-choice-label{
+  position: relative;
+  top: -29px;
+  right: -24px;
+}
+
+li.ss-choice-item.list-unstyled{
+  height: 30px;
+}
+
+input#entry_598482206_other_option_response{
+  margin-top: -25px;
+}
+
+input#entry_1605724374_other_option_response{
+  margin-top: -25px;
+}
+
+input#ss-submit{
+  font-weight: 700;
+}
+
+.ss-required-asterisk{
+  font-weight: 700;
+  margin: 10px 0;
+}
 
 /*FOOTER*/
 .site-footer {
