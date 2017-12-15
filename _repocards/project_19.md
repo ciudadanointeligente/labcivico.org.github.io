@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/19-min.jpg
 imagemax: ../img/19-max.jpg
-title: Reciclaje inclusivo en Quito
+title: Impulsando el reciclaje inclusivo en Quito
 country: Ecuador
 city: Quito
 theme: Formalización de labor de recicladores de base en la cadena GIRS en Quito
