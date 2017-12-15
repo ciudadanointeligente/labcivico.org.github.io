@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/22-min.jpg
 imagemax: ../img/22-max.jpg
-title: Laboratorio Cívico con Organizaciones LGBTI en Quito-Ecuador
+title: Fortaleciendo la comunidad LGBTI en Ecuador
 country: Ecuador
 city: Quito
 theme: Nudos Críticos de las Poblaciones LGBTI
