@@ -2,10 +2,10 @@
 layout: card
 imagemin: ../img/03-min.jpg
 imagemax: ../img/03-max.jpg
-title: Transparencia electoral
+title: Acciones para la transparencia electoral en Peŕu
 country: Perú
 city: Lima
-theme: Acciones para la transparencia electoral en Peŕu
+theme: Transparencia electoral
 period: Noviembre 2015
 problem: Baja cultura de transparencia en elecciones
 ---
