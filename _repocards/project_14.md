@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/14-min.jpg
 imagemax: ../img/14-max.jpg
-title: Ciudadanía y Nutrición ¿Qué podemos hacer como ciudadanos para garantizar una alimentación saludable en el Perú?
+title: "Ciudadanía y Nutrición: Cómo garantizar una alimentación saludable en el Perú"
 country: Perú
 city:
 theme: Ciudadanía y Nutrición
