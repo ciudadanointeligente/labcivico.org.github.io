@@ -2,10 +2,10 @@
 layout: card
 imagemin: ../img/04-min.jpg
 imagemax: ../img/04-max.jpg
-title: Transparencia y probidad
+title: Más transparencia y probidad para Guatemala
 country: Guatemala
 city: Ciudada de Guatemala
-theme: Más transparencia y probidad para Guatemala
+theme: Transparencia y probidad
 period: Agosto 2016
 problem: Casos de corrupción en política
 ---
