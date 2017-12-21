@@ -5,7 +5,7 @@ imagemax: ../img/04-max.jpg
 title: Transparencia y probidad
 country: Guatemala
 city: Ciudada de Guatemala
-theme: Transparencia y probidad
+theme: Más transparencia y probidad para Guatemala
 period: Agosto 2016
 problem: Casos de corrupción en política
 ---
