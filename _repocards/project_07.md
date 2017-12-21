@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/07-min.jpg
 imagemax: ../img/07-max.jpg
-title: La Naturalización de la violencia en el marco del conflicto armado interno
+title: Combatiendo la naturalización de la violencia en el marco del conflicto armado 
 country: Colombia
 city: Cúcuta
 theme: Legitimación de los DDHH en el marco del conflicto armado Colombiano
