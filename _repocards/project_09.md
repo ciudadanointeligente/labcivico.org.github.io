@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/09-min.jpg
 imagemax: ../img/09-max.jpg
-title: LabCívico Ambato
+title: Más jóvenes en la construcción de políticas en Ambato
 country: Ecuador
 city: Ambato
 theme: Participación de jóvenes en la construcción de políticas públicas en la ciudad de Ambato
