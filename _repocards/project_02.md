@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/02-min.jpg
 imagemax: ../img/02-max.jpg
-title: Reciveci
+title: ReciVeci: Por la valoración del reciclaje de base
 country: Ecuador
 city: Quito
 theme: Incentivo al reciclaje
