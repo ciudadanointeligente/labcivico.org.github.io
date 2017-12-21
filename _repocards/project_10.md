@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/10-min.jpg
 imagemax: ../img/10-max.jpg
-title: Fuerza comunitaria
+title: "Fuerza comunitaria: Fortaleciendo la participación ciudadana en Chiclayo"
 country: Perú
 city: Chiclayo
 theme: Importancia de los Planes de Desarrollo Concertado como mecanismos de participación de sociedad civil para la gobernanza.
