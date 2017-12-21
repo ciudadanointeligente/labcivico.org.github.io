@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/default-min.jpg
 imagemax: ../img/default-max.jpg
-title: Labcivico contra la violencia de género
+title: A terminar con las rondas urbanas contra las mujeres
 country: Perú
 city:
 theme: Violencia contra la mujer en rondas urbanas de Cajamarca
