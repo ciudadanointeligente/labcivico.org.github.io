@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/05-min.jpg
 imagemax: ../img/05-max.jpg
-title: Violencia de género
+title: LabCívico para abordar la violencia de género en Honduras
 country: Honduras
 city: Tegucigalpa
 theme: Violencia de género
