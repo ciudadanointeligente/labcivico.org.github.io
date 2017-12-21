@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/08-min.jpg
 imagemax: ../img/08-max.jpg
-title: Recuperación de Espacios Públicos
+title: A recuperar los espacios públicos de Barranco, Lima
 country: Perú
 city: Lima
 theme: Espacios Públicos
