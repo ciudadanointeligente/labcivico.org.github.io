@@ -5,7 +5,7 @@ imagemax: ../img/06-max.jpg
 title: Transporte público
 country: Costa Rica
 city: San José
-theme: Transporte público
+theme: Cómo mejorar el transporte público en San José
 period: Agosto 2016
 problem: Mala calidad del transporte público en la ciudad de San José
 ---
