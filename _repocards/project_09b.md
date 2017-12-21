@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/default-min.jpg
 imagemax: ../img/default-max.jpg
-title: Salud Pública y la Tuberculosis
+title: LabCvico por Salud Pública y la Tuberculosis
 country: Brasil
 city: Rio de Janeiro
 theme: Tuberculosis
