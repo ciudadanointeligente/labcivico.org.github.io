@@ -2,7 +2,7 @@
 layout: card
 imagemin: ../img/13-min.jpg
 imagemax: ../img/13-max.jpg
-title: Ingenieros por el cambio social
+title: Sumando ingenieros al cambio social
 country: Perú
 city:
 theme: La participación de los ingenieros en proyectos con enfoque de desarrollo humano
