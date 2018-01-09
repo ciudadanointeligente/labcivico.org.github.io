@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/18b-min.jpg
-imagemax: ../assets/img/casos/18b-max.jpg
+imagemin: ../img/18b-min.jpg
+imagemax: ../img/18b-max.jpg
 title: Mesa del pacto por la calidad del Aire en Bogotá
 country: Colombia
 city: Bogotá

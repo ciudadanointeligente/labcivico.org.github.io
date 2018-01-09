@@ -1,7 +1,7 @@
 ---
 layout: card
-imagemin: ../assets/img/casos/18c-min.jpg
-imagemax: ../assets/img/casos/18c-max.jpg
+imagemin: ../img/18c-min.jpg
+imagemax: ../img/18c-max.jpg
 title: Visibilizando la violencia de género por armas de fuego para promover políticas públicas efectivas para su control
 country: Bolivia  
 city: La Paz
